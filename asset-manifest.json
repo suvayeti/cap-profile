@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cap-profile/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cap-profile/static/js/main.deb2dbf2.chunk.js",
+    "main.js.map": "/cap-profile/static/js/main.deb2dbf2.chunk.js.map",
+    "runtime-main.js": "/cap-profile/static/js/runtime-main.f308eb56.js",
+    "runtime-main.js.map": "/cap-profile/static/js/runtime-main.f308eb56.js.map",
+    "static/js/2.10055cec.chunk.js": "/cap-profile/static/js/2.10055cec.chunk.js",
+    "static/js/2.10055cec.chunk.js.map": "/cap-profile/static/js/2.10055cec.chunk.js.map",
+    "static/js/3.67796d4c.chunk.js": "/cap-profile/static/js/3.67796d4c.chunk.js",
+    "static/js/3.67796d4c.chunk.js.map": "/cap-profile/static/js/3.67796d4c.chunk.js.map",
+    "index.html": "/cap-profile/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cap-profile/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.10055cec.chunk.js.LICENSE.txt": "/cap-profile/static/js/2.10055cec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f308eb56.js",
+    "static/js/2.10055cec.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.deb2dbf2.chunk.js"
+  ]
+}
